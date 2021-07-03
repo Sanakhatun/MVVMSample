@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVMSample</string>
+    <string name="funded">Funded</string>
+    <string name="goals">Goals</string>
+    <string name="ends_in">ends in</string>
+    <string name="pledge">Pledge</string>
+    <string name="no_data_available">Sorry, No Data Available!</string>
+</resources>

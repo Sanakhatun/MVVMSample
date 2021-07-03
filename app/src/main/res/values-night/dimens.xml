@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left">16</dimen>
+    <dimen name="margin_top">16</dimen>
+    <dimen name="textview_title_margin">8dp</dimen>
+</resources>
